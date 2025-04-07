@@ -1,0 +1,1 @@
+Testing whether I can type a proper commit subject and body message with VScode.
